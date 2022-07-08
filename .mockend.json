@@ -1,8 +1,23 @@
 {
   "User": {
-    "name" : "Ron",
-	"token": "asdfAmn123G1AerSsaxs",
-	"id": 1
+    "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
+  },
+   "token": {
+    "string": [
+      "3894ujgrsdfjpwy578",
+      "aldsfj39845y9345ys"
+    ]
+  },
+      "id": {
+    "int": [
+      1,
+      2
+    ]
+  }
   }
 
 }
