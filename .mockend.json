@@ -18,6 +18,31 @@
       2
     ]
   }
+  },
+
+  "Menu": {
+    "name": {
+    "string": [
+      "Option 1",
+      "Oprtion 2",
+      "Option 3"
+    ]
+  },
+  "url": {
+    "string": [
+      "/home",
+      "/optionTest",
+      "/optionTest"
+    ]
+  },
+   "icon": {
+    "string": [
+      "home_outlined",
+      "notifications",
+      "contact_phone"
+    ]
   }
+  }
+
 
 }
