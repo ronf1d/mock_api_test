@@ -38,8 +38,7 @@
    "icon": {
     "string": [
       "home_outlined",
-      "notifications",
-      "contact_phone"
+      "notifications_outlined"
     ]
   }
   }
