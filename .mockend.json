@@ -1,5 +1,23 @@
 {
   "User": {
+     "username": {
+    "string": [
+      "pfesa",
+      "admin"
+    ]
+  },
+        "companyName": {
+    "string": [
+      "NEPTUNIA S.A.",
+      "APM TERMINALS"
+    ]
+  },
+    "company": {
+    "string": [
+      "20104582359",
+      "20104523154"
+    ]
+  },
     "name": {
     "string": [
       "Thor",
