@@ -59,6 +59,22 @@
     ]
   }
   }
+  
+  
+   "Parameter": {
+    "code": {
+    "string": [
+      "SECURITY-SERVICE",
+      "PFE-API"
+    ]
+  },
+  "value": {
+    "string": [
+      "http://localhost:1020/",
+      "http://localhost:2820/"
+    ]
+  }
+  }
 
 
 }
